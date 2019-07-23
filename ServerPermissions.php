@@ -347,4 +347,8 @@ class ServerPermissions
     const sale_pricingdeed_add_pricing_deed_products = 'sale_pricingdeed_add_pricing_deed_products';
     const sale_pricingdeed_apply_pricing_deed = 'sale_pricingdeed_apply_pricing_deed';
 
+    const repository_forbiddenwords_all = 'repository_forbiddenwords_all';
+    const repository_forbiddenwords_fetch = 'repository_forbiddenwords_fetch';
+    const repository_forbiddenwords_delete = 'repository_forbiddenwords_delete';
+    const repository_forbiddenwords_new = 'repository_forbiddenwords_new';
 }
