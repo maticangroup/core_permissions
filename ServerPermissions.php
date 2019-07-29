@@ -9,6 +9,7 @@
 namespace App\Permissions;
 
 
+
 class ServerPermissions
 {
     const repository_company_all = 'repository_company_all';
